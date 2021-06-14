@@ -8,7 +8,7 @@ import seaborn as sns
 
 
 #ARQUIVO
-file = open('C:\MBA\Data Science Using Python\ProjetoWhatsApp\ProjetoWhatsAppSilasOliveiraRA2101625.txt', 'r', encoding='utf-8')
+file = open('/content/grupoBI.txt', 'r', encoding='utf-8')
 line = file.readline()
 
 #ARRAYS
